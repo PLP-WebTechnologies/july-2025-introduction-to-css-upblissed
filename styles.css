@@ -1,0 +1,18 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana;
+  background-color: #b9b9b9;
+}
+
+  .main-heading {
+    text-align: center;
+    color: darkblue;
+  }
+
+  #intro {
+    font-size: 20px;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: lightgray;
+  }
